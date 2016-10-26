@@ -101,7 +101,7 @@ present.
 ```
 
 ### 'dev' mode
-For deploying chaincode in development mode see [Writing, Building, and Running Chaincode in a Development Environment](../Setup/Chaincode-setup.md). 
+For deploying chaincode in development mode see [Writing, Building, and Running Chaincode in a Development Environment](http://hyperledger-fabric.readthedocs.io/en/latest/Setup/Chaincode-setup). 
 The chaincode must be running and connected to the peer before issuing the `deploy()` from the Node.js application. The hfc `chain` object must be set to dev mode.
 
 ```javascript

@@ -1,6 +1,6 @@
 # Setting up the Full Hyperledger fabric Developer's Environment
 
- * See [Setting Up The Development Environment](../dev-setup/devenv.md) to set up your development environment.
+ * See [Setting Up The Development Environment](http://hyperledger-fabric.readthedocs.io/en/latest/dev-setup/devenv/) to set up your development environment.
  
  * The following commands are all issued from the vagrant environment. The following will open a terminal session:
 
@@ -35,7 +35,7 @@
    <TBD make doc>
 ```  
 
- * To build the reference documentation in the [Fabric-starter-kit](../starter/fabric-starter-kit.md)
+ * To build the reference documentation in the [Fabric-starter-kit](http://hyperledger-fabric.readthedocs.io/en/latest/#fabric-starter-kit)
 
 ```
    docker exec -it nodesdk /bin/bash

@@ -10,7 +10,7 @@ The Hyperledger fabric Client (HFC) SDK for Node.js provides a powerful and easy
 
 #### Development Environment Choices
 
-* *Recommended:* [Fabric-starter-kit](../starter/fabric-starter-kit.md) uses pre-built docker images for the Node.js client application interacting with Hyperledger fabric blockchain. This environment may suffice for a majority of Node.js application developers. The environment contains a built-in standalone sample ready to go.
+* *Recommended:* [Fabric-starter-kit](http://hyperledger-fabric.readthedocs.io/en/latest/#fabric-starter-kit) uses pre-built docker images for the Node.js client application interacting with Hyperledger fabric blockchain. This environment may suffice for a majority of Node.js application developers. The environment contains a built-in standalone sample ready to go.
 
 * [Full Hyperledger fabric development environment](app-developer-env-setup.md) on how to set up an environment for developing chaincode and applications.
   
@@ -29,4 +29,4 @@ The Hyperledger fabric Client (HFC) SDK for Node.js provides a powerful and easy
 
    * To build the reference documentation for the Node.js client SDK APIs follow the instructions [here](app-developer-env-setup.md).
 
-   * To learn more about chaincode, see [Writing, Building, and Running Chaincode in a Development Environment](../Setup/Chaincode-setup.md).
+   * To learn more about chaincode, see [Writing, Building, and Running Chaincode in a Development Environment](http://hyperledger-fabric.readthedocs.io/en/latest/Setup/Chaincode-setup).

@@ -1,12 +1,13 @@
-site_name: Hyperledger Fabric SDK Node
-site_url: http://cdaughtr-fabric-sdk-node-docs.readthedocs.io
-theme: readthedocs
-repo_url: https://github.com/cdaughtr/fabric-sdk-node-docs.git
+site_name: Hyperledger Fabric Node SDK
+site_urlx: http://cdaughtr-fabric-sdk-node-docs.readthedocs.io
+themex: readthedocs
+repo_urlx: https://github.com/cdaughtr/fabric-sdk-node-docs.git
 site_description: 'Welcome to the Hyperledger Fabric SDK Node documentation'
 strict: true
-theme_dir: 'docs/custom_theme'
+theme_dirx: 'docs/custom_theme'
 
-pages:  
+pages:
+- Home: index.md
 - NodeSDK:
   - App-developer-env-setup: app-developer-env-setup.md
   - App-Overview: app-overview.md
@@ -15,7 +16,7 @@ pages:
   - Sample-Standalone-app: sample-standalone-app.md
   - Sample-web-app: sample-web-app.md
 
-markdown_extensions:
+markdown_extensionsx:
   - toc:
      permalink: true
   - admonition
