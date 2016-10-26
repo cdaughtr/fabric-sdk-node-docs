@@ -8,7 +8,7 @@ This section describes how to run a sample standalone Node.js application which 
 
 ```
    cd /opt/gopath/src/github.com/hyperledger/fabric
-   make node-sdk
+   <TBD make node-sdk>
 ```
 
 * Start the membership services and peer processes.  We run the peer in dev mode for simplicity.
@@ -36,7 +36,7 @@ This section describes how to run a sample standalone Node.js application which 
 ```
 * Run **npm** to install Hyperledger Fabric Node.js SDK in the `/tmp` directory
 ```
-     npm install /opt/gopath/src/github.com/hyperledger/fabric/sdk/node
+     npm install /opt/gopath/src/github.com/hyperledger/fabric-sdk-node
 ```
 
 * To run the application :

@@ -1,10 +1,10 @@
 site_name: Hyperledger Fabric Node SDK
 site_urlx: http://cdaughtr-fabric-sdk-node-docs.readthedocs.io
-themex: readthedocs
+theme: readthedocs
 repo_urlx: https://github.com/cdaughtr/fabric-sdk-node-docs.git
-site_description: 'Welcome to the Hyperledger Fabric SDK Node documentation'
+site_description: 'Welcome to the Hyperledger Fabric Node SDK documentation'
 strict: true
-theme_dirx: 'docs/custom_theme'
+theme_dir: 'docs/custom_theme'
 
 pages:
 - Home: index.md
